@@ -1,13 +1,13 @@
-# Slides: Starter boilerplate
+# Slides: Lando
 
-Short or long description.
+Presentation made for a Lando workshop. 
 
 ## Environment
 
 - LOCAL: http://web.slidesstarter.lndo.site/
 - DEV: ~
 - PRE: ~
-- PRO: ~
+- PRO: https://jjpeleato.com/courses/lando/
 
 ## Project
 
